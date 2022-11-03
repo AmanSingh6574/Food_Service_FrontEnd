@@ -1,0 +1,71 @@
+.navbar{
+    flex-direction: column;
+
+}
+.navbar ul li a{
+    font-size: 0.9rem;
+    padding: 0px 7px;
+    padding-bottom: 8px;
+}
+#home{height: 370px;
+    padding: 6px 68px;
+    
+
+
+}
+#home h1{
+    font-size: 0.4rem;
+}
+
+.btn{
+    font-size: 13px;
+    padding: 2px 20px;
+}
+
+
+#home p{
+    font-size: 13px;
+}
+#home::before{
+    height: 480px;
+    
+
+}
+
+#sevices {
+
+    flex-direction: column;
+}
+.box{
+    
+    margin: 18px 129px;
+}
+.box .img1 {
+    width: 140px;
+    
+}
+.box .img2 {
+    width: 130px;
+    
+}
+.box .img3 {
+    width: 140px;
+    
+}
+
+
+.pocket{
+    overflow: hidden;
+    flex-wrap: wrap;
+    
+}
+.pocket-img .imgp1{
+    /* position: relative; */
+    bottom: 150px;
+    right: 25px;
+    
+}
+.h1-primary , .h-secondary-center{
+    font-size: 20px;
+}
+
